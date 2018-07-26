@@ -1,2 +1,2 @@
-# Taiyou.github.io
+# taiyou.github.io
 Landing page Taiyou
