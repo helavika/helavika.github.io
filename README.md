@@ -1,2 +1,2 @@
-# helavika.github.io
-Хостинг
+# Taiyou.github.io
+Landing page Taiyou
